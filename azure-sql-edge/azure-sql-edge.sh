@@ -1,4 +1,3 @@
-sudo docker run
 docker container run \
     --detach \
     --cap-add SYS_PTRACE \
